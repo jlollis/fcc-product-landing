@@ -7,6 +7,3 @@ You can view it live here: [Product Landing Page on Github Pages](https://jlolli
 
 
 ![screenshot](https://github.com/jlollis/fcc-product-landing/blob/master/screenshot.jpg)
-
-
-:tongue:
