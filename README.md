@@ -5,6 +5,6 @@ This is a product landing page, which I created as a small project for the new [
 
 You can view it live here: [Product Landing Page on Github Pages](https://jlollis.github.io/fcc-product-landing/)
 
-<br>
+<br><br>
 
 ![screenshot](https://github.com/jlollis/fcc-product-landing/blob/master/screenshot.jpg)
